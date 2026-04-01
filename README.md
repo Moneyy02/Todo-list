@@ -1,24 +1,39 @@
 # 📝 React Todo List
 
 A simple and interactive Todo List application built using React.  
-It allows users to manage daily tasks efficiently with a clean UI.
+It helps users manage daily tasks with ease.
+
+---
+
+## 📸 Demo
+
+![Todo App Screenshot](./demo.png)
+
+> 💡 Add your screenshot in the project folder and name it `demo.png`
+
+---
 
 ## ✨ Features
 - ➕ Add new tasks  
 - ❌ Delete tasks  
 - ✅ Mark tasks as completed (checkbox)  
-- 🔄 Real-time UI updates using React state  
+- 🔄 Instant UI updates using React  
+
+---
 
 ## 🧠 Concepts Used
-- React Components  
 - useState Hook  
-- Props  
+- Components & Props  
 - Event Handling  
 
+---
+
 ## 🛠️ Tech Stack
-- React (Vite)
-- JavaScript
-- HTML & CSS
+- React (Vite)  
+- JavaScript  
+- HTML & CSS  
+
+---
 
 ## 🚀 Getting Started
 
