@@ -7,9 +7,9 @@ It helps users manage daily tasks with ease.
 
 ## 📸 Demo
 
-![Todo App Screenshot](./demo.png)
+![Todo App Screenshot](./todo-app.png)
 
-> 💡 Add your screenshot in the project folder and name it `demo.png`
+> 💡 Add your screenshot in the project folder and name it `todo-app.png`
 
 ---
 
